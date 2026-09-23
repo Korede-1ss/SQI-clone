@@ -34,7 +34,7 @@
   font-size: small;
 }
 .sec {
-  background: url(/Asset/imgi_56_sqi-matriculating-students\ \(1\).jpg);
+  background: url(Asset/imgi_56_sqi-matriculating-students\ \(1\).jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -134,7 +134,7 @@ p {
   align-items: center;
 }
 .what {
-  background-image: url(/Asset/images__1_-removebg-preview.png);
+  background-image: url(Asset/images__1_-removebg-preview.png);
   background-size: cover;
   width: 65px;
   height: 65px;

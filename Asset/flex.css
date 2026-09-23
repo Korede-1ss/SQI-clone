@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+.relative{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    z-index: 10000;
+    position: fixed;
+   
+}
+
+    .sec {
+  background: url(/Asset/imgi_56_sqi-matriculating-students\ \(1\).jpg);
+  background-size: cover;
+  background-position: center;
+  height: 700px;
+  padding-bottom: 150px;
+  position: relative;
+   border: 1px solid wheat;
+}
+.overlay {
+  background: linear-gradient(
+    to right,
+    rgb(1, 9, 28),
+    rgba(1, 15, 46, 0.674)
+    
+  );
+position: absolute;
+padding-bottom: 230px;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+
+}
